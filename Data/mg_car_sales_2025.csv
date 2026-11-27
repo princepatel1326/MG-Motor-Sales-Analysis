@@ -1,0 +1,85 @@
+year,month,month_number,brand,model,fuel_type,vehicle_segment,units_sold,avg_ex_showroom_price_inr_lakh,estimated_revenue_inr_crore,data_type
+2025,January,1,MG Motor India,Comet EV,Electric,Hatchback,1355,7.2,97.56,Synthetic / Practice Data
+2025,January,1,MG Motor India,Windsor EV,Electric,Crossover,1649,14.0,230.86,Synthetic / Practice Data
+2025,January,1,MG Motor India,ZS EV,Electric,SUV,392,20.5,80.36,Synthetic / Practice Data
+2025,January,1,MG Motor India,Astor,Petrol,SUV,780,11.5,89.7,Synthetic / Practice Data
+2025,January,1,MG Motor India,Hector,Petrol/Diesel,SUV,814,18.0,146.52,Synthetic / Practice Data
+2025,January,1,MG Motor India,Hector Plus,Petrol/Diesel,SUV,263,21.0,55.23,Synthetic / Practice Data
+2025,January,1,MG Motor India,Gloster,Diesel,Full-size SUV,107,38.0,40.66,Synthetic / Practice Data
+2025,February,2,MG Motor India,Comet EV,Electric,Hatchback,1351,7.2,97.27,Synthetic / Practice Data
+2025,February,2,MG Motor India,Windsor EV,Electric,Crossover,1912,14.0,267.68,Synthetic / Practice Data
+2025,February,2,MG Motor India,ZS EV,Electric,SUV,363,20.5,74.42,Synthetic / Practice Data
+2025,February,2,MG Motor India,Astor,Petrol,SUV,811,11.5,93.27,Synthetic / Practice Data
+2025,February,2,MG Motor India,Hector,Petrol/Diesel,SUV,1054,18.0,189.72,Synthetic / Practice Data
+2025,February,2,MG Motor India,Hector Plus,Petrol/Diesel,SUV,306,21.0,64.26,Synthetic / Practice Data
+2025,February,2,MG Motor India,Gloster,Diesel,Full-size SUV,120,38.0,45.6,Synthetic / Practice Data
+2025,March,3,MG Motor India,Comet EV,Electric,Hatchback,1524,7.2,109.73,Synthetic / Practice Data
+2025,March,3,MG Motor India,Windsor EV,Electric,Crossover,1953,14.0,273.42,Synthetic / Practice Data
+2025,March,3,MG Motor India,ZS EV,Electric,SUV,424,20.5,86.92,Synthetic / Practice Data
+2025,March,3,MG Motor India,Astor,Petrol,SUV,752,11.5,86.48,Synthetic / Practice Data
+2025,March,3,MG Motor India,Hector,Petrol/Diesel,SUV,1130,18.0,203.4,Synthetic / Practice Data
+2025,March,3,MG Motor India,Hector Plus,Petrol/Diesel,SUV,323,21.0,67.83,Synthetic / Practice Data
+2025,March,3,MG Motor India,Gloster,Diesel,Full-size SUV,116,38.0,44.08,Synthetic / Practice Data
+2025,April,4,MG Motor India,Comet EV,Electric,Hatchback,1328,7.2,95.62,Synthetic / Practice Data
+2025,April,4,MG Motor India,Windsor EV,Electric,Crossover,2218,14.0,310.52,Synthetic / Practice Data
+2025,April,4,MG Motor India,ZS EV,Electric,SUV,387,20.5,79.33,Synthetic / Practice Data
+2025,April,4,MG Motor India,Astor,Petrol,SUV,745,11.5,85.67,Synthetic / Practice Data
+2025,April,4,MG Motor India,Hector,Petrol/Diesel,SUV,981,18.0,176.58,Synthetic / Practice Data
+2025,April,4,MG Motor India,Hector Plus,Petrol/Diesel,SUV,320,21.0,67.2,Synthetic / Practice Data
+2025,April,4,MG Motor India,Gloster,Diesel,Full-size SUV,115,38.0,43.7,Synthetic / Practice Data
+2025,May,5,MG Motor India,Comet EV,Electric,Hatchback,1505,7.2,108.36,Synthetic / Practice Data
+2025,May,5,MG Motor India,Windsor EV,Electric,Crossover,2238,14.0,313.32,Synthetic / Practice Data
+2025,May,5,MG Motor India,ZS EV,Electric,SUV,475,20.5,97.38,Synthetic / Practice Data
+2025,May,5,MG Motor India,Astor,Petrol,SUV,779,11.5,89.58,Synthetic / Practice Data
+2025,May,5,MG Motor India,Hector,Petrol/Diesel,SUV,1011,18.0,181.98,Synthetic / Practice Data
+2025,May,5,MG Motor India,Hector Plus,Petrol/Diesel,SUV,302,21.0,63.42,Synthetic / Practice Data
+2025,May,5,MG Motor India,Gloster,Diesel,Full-size SUV,122,38.0,46.36,Synthetic / Practice Data
+2025,June,6,MG Motor India,Comet EV,Electric,Hatchback,1502,7.2,108.14,Synthetic / Practice Data
+2025,June,6,MG Motor India,Windsor EV,Electric,Crossover,2086,14.0,292.04,Synthetic / Practice Data
+2025,June,6,MG Motor India,ZS EV,Electric,SUV,363,20.5,74.42,Synthetic / Practice Data
+2025,June,6,MG Motor India,Astor,Petrol,SUV,715,11.5,82.22,Synthetic / Practice Data
+2025,June,6,MG Motor India,Hector,Petrol/Diesel,SUV,1046,18.0,188.28,Synthetic / Practice Data
+2025,June,6,MG Motor India,Hector Plus,Petrol/Diesel,SUV,322,21.0,67.62,Synthetic / Practice Data
+2025,June,6,MG Motor India,Gloster,Diesel,Full-size SUV,115,38.0,43.7,Synthetic / Practice Data
+2025,July,7,MG Motor India,Comet EV,Electric,Hatchback,1403,7.2,101.02,Synthetic / Practice Data
+2025,July,7,MG Motor India,Windsor EV,Electric,Crossover,2332,14.0,326.48,Synthetic / Practice Data
+2025,July,7,MG Motor India,ZS EV,Electric,SUV,417,20.5,85.48,Synthetic / Practice Data
+2025,July,7,MG Motor India,Astor,Petrol,SUV,825,11.5,94.88,Synthetic / Practice Data
+2025,July,7,MG Motor India,Hector,Petrol/Diesel,SUV,1133,18.0,203.94,Synthetic / Practice Data
+2025,July,7,MG Motor India,Hector Plus,Petrol/Diesel,SUV,330,21.0,69.3,Synthetic / Practice Data
+2025,July,7,MG Motor India,Gloster,Diesel,Full-size SUV,124,38.0,47.12,Synthetic / Practice Data
+2025,August,8,MG Motor India,Comet EV,Electric,Hatchback,1594,7.2,114.77,Synthetic / Practice Data
+2025,August,8,MG Motor India,Windsor EV,Electric,Crossover,2570,14.0,359.8,Synthetic / Practice Data
+2025,August,8,MG Motor India,ZS EV,Electric,SUV,465,20.5,95.33,Synthetic / Practice Data
+2025,August,8,MG Motor India,Astor,Petrol,SUV,777,11.5,89.36,Synthetic / Practice Data
+2025,August,8,MG Motor India,Hector,Petrol/Diesel,SUV,1114,18.0,200.52,Synthetic / Practice Data
+2025,August,8,MG Motor India,Hector Plus,Petrol/Diesel,SUV,337,21.0,70.77,Synthetic / Practice Data
+2025,August,8,MG Motor India,Gloster,Diesel,Full-size SUV,121,38.0,45.98,Synthetic / Practice Data
+2025,September,9,MG Motor India,Comet EV,Electric,Hatchback,1600,7.2,115.2,Synthetic / Practice Data
+2025,September,9,MG Motor India,Windsor EV,Electric,Crossover,2944,14.0,412.16,Synthetic / Practice Data
+2025,September,9,MG Motor India,ZS EV,Electric,SUV,428,20.5,87.74,Synthetic / Practice Data
+2025,September,9,MG Motor India,Astor,Petrol,SUV,964,11.5,110.86,Synthetic / Practice Data
+2025,September,9,MG Motor India,Hector,Petrol/Diesel,SUV,1028,18.0,185.04,Synthetic / Practice Data
+2025,September,9,MG Motor India,Hector Plus,Petrol/Diesel,SUV,350,21.0,73.5,Synthetic / Practice Data
+2025,September,9,MG Motor India,Gloster,Diesel,Full-size SUV,132,38.0,50.16,Synthetic / Practice Data
+2025,October,10,MG Motor India,Comet EV,Electric,Hatchback,1856,7.2,133.63,Synthetic / Practice Data
+2025,October,10,MG Motor India,Windsor EV,Electric,Crossover,3097,14.0,433.58,Synthetic / Practice Data
+2025,October,10,MG Motor India,ZS EV,Electric,SUV,527,20.5,108.03,Synthetic / Practice Data
+2025,October,10,MG Motor India,Astor,Petrol,SUV,952,11.5,109.48,Synthetic / Practice Data
+2025,October,10,MG Motor India,Hector,Petrol/Diesel,SUV,1236,18.0,222.48,Synthetic / Practice Data
+2025,October,10,MG Motor India,Hector Plus,Petrol/Diesel,SUV,416,21.0,87.36,Synthetic / Practice Data
+2025,October,10,MG Motor India,Gloster,Diesel,Full-size SUV,140,38.0,53.2,Synthetic / Practice Data
+2025,November,11,MG Motor India,Comet EV,Electric,Hatchback,1711,7.2,123.19,Synthetic / Practice Data
+2025,November,11,MG Motor India,Windsor EV,Electric,Crossover,2921,14.0,408.94,Synthetic / Practice Data
+2025,November,11,MG Motor India,ZS EV,Electric,SUV,493,20.5,101.06,Synthetic / Practice Data
+2025,November,11,MG Motor India,Astor,Petrol,SUV,1080,11.5,124.2,Synthetic / Practice Data
+2025,November,11,MG Motor India,Hector,Petrol/Diesel,SUV,1377,18.0,247.86,Synthetic / Practice Data
+2025,November,11,MG Motor India,Hector Plus,Petrol/Diesel,SUV,438,21.0,91.98,Synthetic / Practice Data
+2025,November,11,MG Motor India,Gloster,Diesel,Full-size SUV,147,38.0,55.86,Synthetic / Practice Data
+2025,December,12,MG Motor India,Comet EV,Electric,Hatchback,2049,7.2,147.53,Synthetic / Practice Data
+2025,December,12,MG Motor India,Windsor EV,Electric,Crossover,3649,14.0,510.86,Synthetic / Practice Data
+2025,December,12,MG Motor India,ZS EV,Electric,SUV,554,20.5,113.57,Synthetic / Practice Data
+2025,December,12,MG Motor India,Astor,Petrol,SUV,1152,11.5,132.48,Synthetic / Practice Data
+2025,December,12,MG Motor India,Hector,Petrol/Diesel,SUV,1386,18.0,249.48,Synthetic / Practice Data
+2025,December,12,MG Motor India,Hector Plus,Petrol/Diesel,SUV,433,21.0,90.93,Synthetic / Practice Data
+2025,December,12,MG Motor India,Gloster,Diesel,Full-size SUV,157,38.0,59.66,Synthetic / Practice Data
